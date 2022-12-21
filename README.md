@@ -1,3 +1,2 @@
 # BackboneCode
-Personal Web Page
-Link: https://grimloc-aduque.github.io/BackboneCode/
+Personal Web Page: https://grimloc-aduque.github.io/BackboneCode/
